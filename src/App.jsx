@@ -9,7 +9,7 @@ function App() {
   const [timelineData, setTimelineData] = useState(null);
 
   return (
-    <Router>
+    <Router basename="/chrono-timeline/">
       <Routes>
         <Route path="/" element={<Entry setTimelineData={setTimelineData} />} />
         <Route path="/timeline" element={<Timeline timelineData={timelineData} setTimelineData={setTimelineData} />} />
