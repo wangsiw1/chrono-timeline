@@ -1,0 +1,45 @@
+/* Edit page responsive layout styles */
+.edit-timeline-container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 32px;
+}
+
+.edit-timeline-content {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.edit-timeline-form {
+  width: 100%;
+}
+
+.edit-timeline-list {
+  width: 100%;
+}
+
+/*
+  @media (min-width: 1000px) means these styles only apply when the browser window is at least 1000px wide (desktop screens).
+  On mobile, the layout stacks vertically and uses 100% width.
+*/
+@media (min-width: 1000px) {
+  .edit-timeline-content {
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 24px;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  .edit-timeline-form,
+  .edit-timeline-list {
+    flex: 1 1 0;
+    min-width: 300px;
+    max-width: 100%;
+    width: 100%;
+  }
+}
