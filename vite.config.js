@@ -8,6 +8,7 @@ export default defineConfig({
   plugins: [
     react(),
     VitePWA({
+      base: "/chrono-timeline/",
       registerType: 'autoUpdate',
       manifest: {
         name: 'Chrono Timeline PWA',
