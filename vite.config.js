@@ -5,10 +5,10 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/chrono-timeline/",
   plugins: [
     react(),
     VitePWA({
-      base: "/chrono-timeline/",
       registerType: 'autoUpdate',
       manifest: {
         name: 'Chrono Timeline PWA',
