@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import cardFieldImg from '../assets/card_field.png';
 import styles from './Edit.module.css';
 import { useNavigate } from 'react-router-dom';
 import { calculateTimelineHash } from '../utils/hash';
@@ -200,7 +201,7 @@ export default function Edit({ timelineData, setTimelineData }) {
             </button>
           </div>
         </form>
-        {items.length > 0 && (
+        {items.length > 0 ? (
           <div className={styles['edit-timeline-list']}>
             <div style={{ marginBottom: 12 }}>
               <button
@@ -239,6 +240,11 @@ export default function Edit({ timelineData, setTimelineData }) {
                 </li>
               ))}
             </ul>
+          </div>
+        ) : (
+          <div style={{ textAlign: 'center', marginTop: 32 }}>
+            <img src={cardFieldImg} alt="No items" style={{ maxWidth: '100%', height: 'auto', outline: '#007fff solid 5px' }} />
+            <div style={{ color: '#888', marginTop: 12 }}>No timeline items yet. Add your first item!</div>
           </div>
         )}
       </div>
