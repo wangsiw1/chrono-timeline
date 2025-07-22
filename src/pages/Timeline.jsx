@@ -29,9 +29,7 @@ export default function Timeline({ timelineData }) {
     .map(item => {
       // Remove unsupported props for Chrono, only pass allowed fields
       const { title, cardTitle, cardSubtitle, cardDetailedText, url, media } = item;
-      const chronoItem = { title, cardTitle, cardSubtitle, cardDetailedText };
-      if (url) chronoItem.url = url;
-      if (media) chronoItem.media = { name: media, source: { url: media } };
+      const chronoItem = { title, cardTitle, cardSubtitle, cardDetailedText, url, media };
       return chronoItem;
     });
   return (
