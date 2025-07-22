@@ -50,6 +50,20 @@ export default function Edit({ timelineData, setTimelineData }) {
     setEditIdx(null);
   };
 
+  const moveItemUp = (idx) => {
+    if (idx === 0) return;
+    const newItems = [...items];
+    [newItems[idx - 1], newItems[idx]] = [newItems[idx], newItems[idx - 1]];
+    setItems(newItems);
+  };
+
+  const moveItemDown = (idx) => {
+    if (idx === items.length - 1) return;
+    const newItems = [...items];
+    [newItems[idx], newItems[idx + 1]] = [newItems[idx + 1], newItems[idx]];
+    setItems(newItems);
+  };
+
   const startEditItem = (idx) => {
     const item = items[idx];
     setTitle(item.title || '');
@@ -227,6 +241,16 @@ export default function Edit({ timelineData, setTimelineData }) {
                     <div style={{ display: 'flex', gap: 8, marginTop: 4 }}>
                       <button
                         style={{ fontSize: '0.8em', padding: '2px 8px' }}
+                        onClick={() => moveItemUp(idx)}
+                        disabled={editIdx !== null || idx === 0}
+                      >↑</button>
+                      <button
+                        style={{ fontSize: '0.8em', padding: '2px 8px' }}
+                        onClick={() => moveItemDown(idx)}
+                        disabled={editIdx !== null || idx === items.length - 1}
+                      >↓</button>
+                      <button
+                        style={{ fontSize: '0.8em', padding: '2px 8px' }}
                         onClick={() => startEditItem(idx)}
                         disabled={editIdx !== null}
                       >Edit</button>
@@ -242,9 +266,10 @@ export default function Edit({ timelineData, setTimelineData }) {
             </ul>
           </div>
         ) : (
-          <div style={{ textAlign: 'center', marginTop: 32 }}>
+          <div style={{ textAlign: 'center' }}>
+            <div style={{ color: '#888' }}>No timeline items yet. Add your first item!</div>
+            <div style={{ color: '#888', marginBottom: 16 }}>Example image below for field reference</div>
             <img src={cardFieldImg} alt="No items" style={{ maxWidth: '100%', height: 'auto', outline: '#007fff solid 5px' }} />
-            <div style={{ color: '#888', marginTop: 12 }}>No timeline items yet. Add your first item!</div>
           </div>
         )}
       </div>
