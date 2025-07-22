@@ -106,7 +106,7 @@ export default function Entry({ setTimelineData }) {
       </div>
       <input type="file" accept="application/json" onChange={handleFileChange} style={{ marginBottom: 8 }} />
       <div style={{ margin: '8px 0', fontWeight: 'bold', color: '#888' }}>Or</div>
-      <div style={{ width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', marginBottom: 8 }}>
+      <div style={{ width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', margin: '8px 0' }}>
         <input
           type="url"
           placeholder="Enter JSON file URL"
