@@ -148,19 +148,21 @@ export default function Edit({ timelineData, setTimelineData }) {
           </div>
           <div style={{ display: 'flex', alignItems: 'center', marginBottom: 12 }}>
             <label style={{ width: 120 }}>URL:</label>
-            <input style={{ flex: 1, minWidth: 200 }} placeholder="URL" value={url} onChange={e => setUrl(e.target.value)} />
+            <input style={{ flex: 1, minWidth: 200 }} placeholder="Link to source" value={url} onChange={e => setUrl(e.target.value)} />
+          </div>
+          <div style={{ display: 'flex', alignItems: 'center', marginBottom: 12 }}>
+            <label style={{ width: 120 }}>Media URL:</label>
+            <input style={{ flex: 1, minWidth: 200 }} placeholder="Youtube video or image link" value={mediaUrl} onChange={e => setMediaUrl(e.target.value)} />
           </div>
           <div style={{ display: 'flex', alignItems: 'center', marginBottom: 12 }}>
             <label style={{ width: 120 }}>Media Type:</label>
-            <select style={{ minWidth: 100, marginRight: 8 }} value={mediaType} onChange={e => setMediaType(e.target.value)}>
+            <select style={{ minWidth: 100 }} value={mediaType} onChange={e => setMediaType(e.target.value)}>
               <option value="IMAGE">Image</option>
               <option value="VIDEO">Video</option>
             </select>
-            <label style={{ width: 80 }}>URL:</label>
-            <input style={{ flex: 1, minWidth: 120 }} placeholder="Media URL" value={mediaUrl} onChange={e => setMediaUrl(e.target.value)} />
           </div>
           <div style={{ display: 'flex', alignItems: 'center', marginBottom: 12 }}>
-            <label style={{ width: 120 }}>Media Name/Alt:</label>
+            <label style={{ width: 120 }}>Media Alt:</label>
             <input style={{ flex: 1, minWidth: 200 }} placeholder="Media Name or Alt Text" value={mediaName} onChange={e => setMediaName(e.target.value)} />
           </div>
           <div style={{ textAlign: 'center', marginTop: 8 }}>

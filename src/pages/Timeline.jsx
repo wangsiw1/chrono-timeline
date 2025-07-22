@@ -39,6 +39,7 @@ export default function Timeline({ timelineData }) {
       style={{
         margin: 'auto',
         padding: 16,
+        paddingBottom: 32,
         minHeight: '80vh',
         textAlign: 'center',
         width: '90%',

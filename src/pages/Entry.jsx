@@ -1,5 +1,6 @@
 
 import React from 'react';
+import socialLogo from '../assets/react-chrono-logo-small.png';
 import { useNavigate } from 'react-router-dom';
 
 // Validate a single timeline item according to react-chrono TimelineItemModel
@@ -95,8 +96,14 @@ export default function Entry({ setTimelineData }) {
   };
 
   return (
-    <div style={{ maxWidth: 400, margin: 'auto', padding: 32, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '80vh' }}>
-      <h2>Timeline App</h2>
+    <div style={{ maxWidth: 400, margin: 'auto', padding: 32, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'flex-start', minHeight: '80vh' }}>
+      <div style={{ textAlign: 'center', marginBottom: 100 }}>
+        <h1 style={{ fontSize: '2.2em', marginBottom: 8 }}>Chrono Timeline</h1>
+        <div style={{ fontSize: '1em', color: '#888', marginBottom: 12 }}>A simple timeline app built with</div>
+        <a href="https://github.com/prabhuignoto/react-chrono" target="_blank" rel="noopener noreferrer">
+          <img src={socialLogo} alt="React Chrono" style={{ maxWidth: "100%", marginBottom: 8 }} />
+        </a>
+      </div>
       <input type="file" accept="application/json" onChange={handleFileChange} style={{ marginBottom: 8 }} />
       <div style={{ margin: '8px 0', fontWeight: 'bold', color: '#888' }}>Or</div>
       <div style={{ width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', marginBottom: 8 }}>
@@ -107,7 +114,7 @@ export default function Entry({ setTimelineData }) {
           onChange={e => setUrl(e.target.value)}
           style={{ width: '100%', marginBottom: 8 }}
         />
-        <button onClick={handleUrlLoad} disabled={loading} style={{ width: '100%' }}>
+        <button onClick={handleUrlLoad} disabled={loading}>
           {loading ? 'Loading...' : 'Load from URL'}
         </button>
       </div>
