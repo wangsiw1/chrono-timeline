@@ -13,7 +13,8 @@ export default defineConfig({
       manifest: {
         name: 'Chrono Timeline PWA',
         short_name: 'Chrono Timeline',
-        start_url: '/',
+        start_url: '/chrono-timeline/',
+        scope: '/chrono-timeline/',
         display: 'standalone',
         background_color: '#ffffff',
         theme_color: '#1976d2',
