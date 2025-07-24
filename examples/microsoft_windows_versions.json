@@ -1,0 +1,606 @@
+{
+  "items": [
+    {
+      "title": "1985-11-20",
+      "cardTitle": "Windows 1.0",
+      "cardSubtitle": "Microsoft's first graphical user interface",
+      "url": "https://en.wikipedia.org/wiki/Windows_1.0",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Windows1.0.png"
+        },
+        "name": "Windows 1.0"
+      },
+      "cardDetailedText": "Windows 1.0 was the first graphical user interface (GUI) based operating environment released by Microsoft. It ran as a 16-bit shell on top of MS-DOS, introducing features like a mouse-driven interface, pull-down menus, and scroll bars."
+    },
+    {
+      "title": "1987-12-09",
+      "cardTitle": "Windows 2.0",
+      "cardSubtitle": "Improved GUI and memory management",
+      "url": "https://en.wikipedia.org/wiki/Windows_2.0",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/c9/Windows_2.0.png"
+        },
+        "name": "Windows 2.0"
+      },
+      "cardDetailedText": "Windows 2.0 introduced overlapping windows, customizable desktops, and better memory management. It was also the first version to include early versions of Word and Excel."
+    },
+    {
+      "title": "1990-05-22",
+      "cardTitle": "Windows 3.0",
+      "cardSubtitle": "First widespread success for Windows",
+      "url": "https://en.wikipedia.org/wiki/Windows_3.0",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/15/Windows_3.0_workspace.png"
+        },
+        "name": "Windows 3.0"
+      },
+      "cardDetailedText": "Windows 3.0 was a significant release, featuring a revamped interface with Program Manager and File Manager, and improved multitasking capabilities. It gained widespread popularity and sold millions of copies."
+    },
+    {
+      "title": "1992-04-06",
+      "cardTitle": "Windows 3.1",
+      "cardSubtitle": "Improved stability and multimedia support",
+      "url": "https://en.wikipedia.org/wiki/Windows_3.1x",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/73/Windows_3.11_workspace.png"
+        },
+        "name": "Windows 3.1"
+      },
+      "cardDetailedText": "Windows 3.1 introduced TrueType fonts, multimedia support, and improved stability. It also saw the introduction of Minesweeper."
+    },
+    {
+      "title": "1992-10-27",
+      "cardTitle": "Windows for Workgroups 3.1",
+      "cardSubtitle": "Networking features for business",
+      "url": "https://en.wikipedia.org/wiki/Windows_for_Workgroups",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Windows_for_Workgroups.png"
+        },
+        "name": "Windows for Workgroups 3.1"
+      },
+      "cardDetailedText": "Windows for Workgroups added integrated networking capabilities, allowing users to share files and printers in a workgroup environment."
+    },
+    {
+      "title": "1993-07-27",
+      "cardTitle": "Windows NT 3.1",
+      "cardSubtitle": "First in the Windows NT line for professional use",
+      "url": "https://en.wikipedia.org/wiki/Windows_NT_3.1",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/Windows_NT_3.1.png"
+        },
+        "name": "Windows NT 3.1"
+      },
+      "cardDetailedText": "Windows NT 3.1 was Microsoft's first 32-bit operating system designed for high-end workstations and servers, focusing on stability, security, and networking."
+    },
+    {
+      "title": "1993-11-08",
+      "cardTitle": "Windows for Workgroups 3.11",
+      "cardSubtitle": "Updated networking and performance",
+      "url": "https://en.wikipedia.org/wiki/Windows_for_Workgroups#Windows_for_Workgroups_3.11",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Windows_for_Workgroups.png"
+        },
+        "name": "Windows for Workgroups 3.11"
+      },
+      "cardDetailedText": "An update to Windows for Workgroups, offering further improvements to networking and performance."
+    },
+    {
+      "title": "1994-09-21",
+      "cardTitle": "Windows NT 3.5",
+      "cardSubtitle": "Improved performance and interoperability",
+      "url": "https://en.wikipedia.org/wiki/Windows_NT_3.5",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Windows_NT_3.5.png"
+        },
+        "name": "Windows NT 3.5"
+      },
+      "cardDetailedText": "Windows NT 3.5 brought performance enhancements and broader support for various network protocols."
+    },
+    {
+      "title": "1995-05-30",
+      "cardTitle": "Windows NT 3.51",
+      "cardSubtitle": "PowerPC support and minor improvements",
+      "url": "https://en.wikipedia.org/wiki/Windows_NT_3.51",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/Windows_NT_3.51.png"
+        },
+        "name": "Windows NT 3.51"
+      },
+      "cardDetailedText": "This version of Windows NT added support for the PowerPC architecture and included minor feature updates."
+    },
+    {
+      "title": "1995-08-24",
+      "cardTitle": "Windows 95",
+      "cardSubtitle": "Start menu and a new era for Windows",
+      "url": "https://en.wikipedia.org/wiki/Windows_95",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Windows_95_at_first_run.png"
+        },
+        "name": "Windows 95"
+      },
+      "cardDetailedText": "Windows 95 was a groundbreaking release, introducing the Start button and Taskbar, a 32-bit architecture, and Plug and Play capabilities, making it much easier to use and install hardware."
+    },
+    {
+      "title": "1996-07-31",
+      "cardTitle": "Windows NT 4.0",
+      "cardSubtitle": "Windows 95 interface for NT",
+      "url": "https://en.wikipedia.org/wiki/Windows_NT_4.0",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Windows_NT_4.0.png"
+        },
+        "name": "Windows NT 4.0"
+      },
+      "cardDetailedText": "Windows NT 4.0 merged the user interface of Windows 95 with the robust NT kernel, offering better performance and scalability for business environments."
+    },
+    {
+      "title": "1998-06-25",
+      "cardTitle": "Windows 98",
+      "cardSubtitle": "Improved web integration and USB support",
+      "url": "https://en.wikipedia.org/wiki/Windows_98",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/00/Windows98.png"
+        },
+        "name": "Windows 98"
+      },
+      "cardDetailedText": "Windows 98 focused on improved web integration with Internet Explorer 4.0, better USB support, and enhanced system utilities."
+    },
+    {
+      "title": "1999-05-05",
+      "cardTitle": "Windows 98 Second Edition (SE)",
+      "cardSubtitle": "Maintenance release with bug fixes",
+      "url": "https://en.wikipedia.org/wiki/Windows_98#Second_Edition",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/00/Windows98.png"
+        },
+        "name": "Windows 98 SE"
+      },
+      "cardDetailedText": "Windows 98 SE was an updated version of Windows 98, including bug fixes, improved hardware support, and Internet Connection Sharing."
+    },
+    {
+      "title": "2000-02-17",
+      "cardTitle": "Windows 2000",
+      "cardSubtitle": "Business-focused NT operating system",
+      "url": "https://en.wikipedia.org/wiki/Windows_2000",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Windows_2000_Professional_screenshot.png"
+        },
+        "name": "Windows 2000"
+      },
+      "cardDetailedText": "Windows 2000 was a business-oriented operating system in the NT family, offering improved security, reliability, and administration tools. It came in Professional, Server, Advanced Server, and Datacenter Server editions."
+    },
+    {
+      "title": "2000-09-14",
+      "cardTitle": "Windows Me (Millennium Edition)",
+      "cardSubtitle": "Consumer-focused with multimedia enhancements",
+      "url": "https://en.wikipedia.org/wiki/Windows_Me",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/6/69/WindowsME.png"
+        },
+        "name": "Windows Me"
+      },
+      "cardDetailedText": "Windows Me was designed for home users, featuring enhanced multimedia capabilities, System Restore, and Windows Movie Maker. It was the last Windows version based on the Windows 9x kernel."
+    },
+    {
+      "title": "2001-10-25",
+      "cardTitle": "Windows XP",
+      "cardSubtitle": "Major unified release for home and business",
+      "url": "https://en.wikipedia.org/wiki/Windows_XP",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/6/64/Windows_XP_Luna.png"
+        },
+        "name": "Windows XP"
+      },
+      "cardDetailedText": "Windows XP unified the consumer and business lines of Windows, offering a refreshed interface, improved stability, and features like ClearType and Remote Desktop. It became one of the most popular Windows versions."
+    },
+    {
+      "title": "2003-04-24",
+      "cardTitle": "Windows Server 2003",
+      "cardSubtitle": "Enhanced server operating system",
+      "url": "https://en.wikipedia.org/wiki/Windows_Server_2003",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/45/Windows_Server_2003.png"
+        },
+        "name": "Windows Server 2003"
+      },
+      "cardDetailedText": "Windows Server 2003 was a significant update to the server line, providing improved performance, security, and directory services with Active Directory."
+    },
+    {
+      "title": "2005-04-25",
+      "cardTitle": "Windows XP Professional x64 Edition",
+      "cardSubtitle": "64-bit support for XP",
+      "url": "https://en.wikipedia.org/wiki/Windows_XP_Professional_x64_Edition",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Windows_XP_Pro_x64.png"
+        },
+        "name": "Windows XP Professional x64 Edition"
+      },
+      "cardDetailedText": "This version of Windows XP was released to support 64-bit processors, allowing for larger amounts of RAM and improved performance for demanding applications."
+    },
+    {
+      "title": "2007-01-30",
+      "cardTitle": "Windows Vista",
+      "cardSubtitle": "Aero interface and security focus",
+      "url": "https://en.wikipedia.org/wiki/Windows_Vista",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Windows_Vista.png"
+        },
+        "name": "Windows Vista"
+      },
+      "cardDetailedText": "Windows Vista introduced the visually rich Aero glass interface, significant security enhancements with User Account Control (UAC), and improved search capabilities."
+    },
+    {
+      "title": "2008-02-04",
+      "cardTitle": "Windows Server 2008",
+      "cardSubtitle": "Next-generation server platform",
+      "url": "https://en.wikipedia.org/wiki/Windows_Server_2008",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/40/Windows_Server_2008.png"
+        },
+        "name": "Windows Server 2008"
+      },
+      "cardDetailedText": "Windows Server 2008 built upon Windows Vista's core, offering advanced virtualization features with Hyper-V, improved web server capabilities, and enhanced security."
+    },
+    {
+      "title": "2009-10-22",
+      "cardTitle": "Windows 7",
+      "cardSubtitle": "Refined and popular operating system",
+      "url": "https://en.wikipedia.org/wiki/Windows_7",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/50/Windows_7_SP1_screenshot.png"
+        },
+        "name": "Windows 7"
+      },
+      "cardDetailedText": "Windows 7 was highly regarded for its improved performance, stability, and user experience, refining many of the features introduced in Vista and becoming a widely adopted operating system."
+    },
+    {
+      "title": "2009-10-22",
+      "cardTitle": "Windows Server 2008 R2",
+      "cardSubtitle": "64-bit only server release",
+      "url": "https://en.wikipedia.org/wiki/Windows_Server_2008_R2",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Windows_Server_2008_R2_Datacenter.png"
+        },
+        "name": "Windows Server 2008 R2"
+      },
+      "cardDetailedText": "Windows Server 2008 R2 was the first server OS from Microsoft to be exclusively 64-bit, bringing further improvements to virtualization, power management, and remote access."
+    },
+    {
+      "title": "2012-10-26",
+      "cardTitle": "Windows 8",
+      "cardSubtitle": "Metro UI and touch-first experience",
+      "url": "https://en.wikipedia.org/wiki/Windows_8",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/12/Windows_8_Desktop.png"
+        },
+        "name": "Windows 8"
+      },
+      "cardDetailedText": "Windows 8 introduced the controversial 'Metro' user interface optimized for touch devices, with a redesigned Start screen and removal of the traditional Start menu."
+    },
+    {
+      "title": "2012-10-26",
+      "cardTitle": "Windows Server 2012",
+      "cardSubtitle": "Cloud-optimized server platform",
+      "url": "https://en.wikipedia.org/wiki/Windows_Server_2012",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Windows_Server_2012_Desktop.png"
+        },
+        "name": "Windows Server 2012"
+      },
+      "cardDetailedText": "Windows Server 2012 focused on cloud computing and virtualization, with enhancements to Hyper-V, storage, and networking."
+    },
+    {
+      "title": "2013-10-17",
+      "cardTitle": "Windows 8.1",
+      "cardSubtitle": "Return of the Start button and refinements",
+      "url": "https://en.wikipedia.org/wiki/Windows_8.1",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Windows_8.1_Desktop.png"
+        },
+        "name": "Windows 8.1"
+      },
+      "cardDetailedText": "Windows 8.1 addressed some criticisms of Windows 8, bringing back a visible Start button and offering more traditional desktop navigation options."
+    },
+    {
+      "title": "2013-10-17",
+      "cardTitle": "Windows Server 2012 R2",
+      "cardSubtitle": "Further cloud and virtualization improvements",
+      "url": "https://en.wikipedia.org/wiki/Windows_Server_2012_R2",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/22/Windows-Server-2012-R2-Update-3-Desktop.png"
+        },
+        "name": "Windows Server 2012 R2"
+      },
+      "cardDetailedText": "An update to Windows Server 2012, offering further advancements in virtualization, storage, and networking for data centers."
+    },
+    {
+      "title": "2015-07-29",
+      "cardTitle": "Windows 10 (Initial Release)",
+      "cardSubtitle": "Universal platform and Start menu return",
+      "url": "https://en.wikipedia.org/wiki/Windows_10",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Windows_10_desktop.png"
+        },
+        "name": "Windows 10"
+      },
+      "cardDetailedText": "Windows 10 aimed to unify the Windows experience across devices, reintroducing a hybrid Start menu, introducing Microsoft Edge, and integrating Cortana."
+    },
+    {
+      "title": "2015-11-12",
+      "cardTitle": "Windows 10 November Update (Threshold 2)",
+      "cardSubtitle": "First major update to Windows 10",
+      "url": "https://en.wikipedia.org/wiki/Windows_10_version_history#Version_1511_(November_Update)",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Windows_10_desktop.png"
+        },
+        "name": "Windows 10 November Update"
+      },
+      "cardDetailedText": "The first significant feature update for Windows 10, bringing performance improvements, UI refinements, and new features to Edge and Cortana."
+    },
+    {
+      "title": "2016-08-02",
+      "cardTitle": "Windows 10 Anniversary Update (Redstone 1)",
+      "cardSubtitle": "Major feature update with Ink Workspace and improved Edge",
+      "url": "https://en.wikipedia.org/wiki/Windows_10_version_history#Version_1607_(Anniversary_Update)",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Windows_10_desktop.png"
+        },
+        "name": "Windows 10 Anniversary Update"
+      },
+      "cardDetailedText": "The Anniversary Update brought Windows Ink Workspace, improvements to Cortana and Microsoft Edge, and enhanced security features."
+    },
+    {
+      "title": "2016-10-17",
+      "cardTitle": "Windows Server 2016",
+      "cardSubtitle": "Cloud-ready server OS with Nano Server",
+      "url": "https://en.wikipedia.org/wiki/Windows_Server_2016",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/6/62/Windows_Server_2016_screenshot.png"
+        },
+        "name": "Windows Server 2016"
+      },
+      "cardDetailedText": "Windows Server 2016 focused on cloud integration, security, and the introduction of Nano Server, a lightweight deployment option for cloud-native applications."
+    },
+    {
+      "title": "2017-04-11",
+      "cardTitle": "Windows 10 Creators Update (Redstone 2)",
+      "cardSubtitle": "3D and creativity focus",
+      "url": "https://en.wikipedia.org/wiki/Windows_10_version_history#Version_1703_(Creators_Update)",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Windows_10_desktop.png"
+        },
+        "name": "Windows 10 Creators Update"
+      },
+      "cardDetailedText": "The Creators Update introduced Paint 3D, improved gaming features with Game Mode, and a new privacy dashboard."
+    },
+    {
+      "title": "2017-10-17",
+      "cardTitle": "Windows 10 Fall Creators Update (Redstone 3)",
+      "cardSubtitle": "Fluent Design and OneDrive Files On-Demand",
+      "url": "https://en.wikipedia.org/wiki/Windows_10_version_history#Version_1709_(Fall_Creators_Update)",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Windows_10_desktop.png"
+        },
+        "name": "Windows 10 Fall Creators Update"
+      },
+      "cardDetailedText": "This update brought the initial elements of Fluent Design, OneDrive Files On-Demand, and improvements to the Photos app."
+    },
+    {
+      "title": "2018-10-02",
+      "cardTitle": "Windows 10 October 2018 Update (Redstone 5)",
+      "cardSubtitle": "Cloud Clipboard and Dark Mode for File Explorer",
+      "url": "https://en.wikipedia.org/wiki/Windows_10_version_history#Version_1809_(October_2018_Update)",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Windows_10_desktop.png"
+        },
+        "name": "Windows 10 October 2018 Update"
+      },
+      "cardDetailedText": "The October 2018 Update introduced Cloud Clipboard, a new Snip & Sketch tool, and a dark theme for File Explorer."
+    },
+    {
+      "title": "2018-10-02",
+      "cardTitle": "Windows Server 2019",
+      "cardSubtitle": "Hybrid cloud and enhanced security",
+      "url": "https://en.wikipedia.org/wiki/Windows_Server_2019",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/ed/Windows_Server_2019_desktop_screenshot.png"
+        },
+        "name": "Windows Server 2019"
+      },
+      "cardDetailedText": "Windows Server 2019 focused on hybrid cloud scenarios, improved security, and enhanced support for containers and Linux workloads."
+    },
+    {
+      "title": "2019-05-21",
+      "cardTitle": "Windows 10 May 2019 Update (19H1)",
+      "cardSubtitle": "Light Theme and Windows Sandbox",
+      "url": "https://en.wikipedia.org/wiki/Windows_10_version_history#Version_1903_(May_2019_Update)",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Windows_10_desktop.png"
+        },
+        "name": "Windows 10 May 2019 Update"
+      },
+      "cardDetailedText": "This update brought a new light theme, Windows Sandbox for secure application testing, and a separate search and Cortana experience."
+    },
+    {
+      "title": "2019-11-12",
+      "cardTitle": "Windows 10 November 2019 Update (19H2)",
+      "cardSubtitle": "Minor update with performance improvements",
+      "url": "https://en.wikipedia.org/wiki/Windows_10_version_history#Version_1909_(November_2019_Update)",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Windows_10_desktop.png"
+        },
+        "name": "Windows 10 November 2019 Update"
+      },
+      "cardDetailedText": "A cumulative update focused on performance improvements, enterprise features, and quality enhancements rather than new major features."
+    },
+    {
+      "title": "2020-05-27",
+      "cardTitle": "Windows 10 May 2020 Update (20H1)",
+      "cardSubtitle": "Improved Cortana and Windows Subsystem for Linux 2",
+      "url": "https://en.wikipedia.org/wiki/Windows_10_version_history#Version_2004_(May_2020_Update)",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Windows_10_desktop.png"
+        },
+        "name": "Windows 10 May 2020 Update"
+      },
+      "cardDetailedText": "This update included a new Cortana experience, Windows Subsystem for Linux 2 (WSL 2), and improvements to Virtual Desktops."
+    },
+    {
+      "title": "2020-10-20",
+      "cardTitle": "Windows 10 October 2020 Update (20H2)",
+      "cardSubtitle": "Refined Start menu and Edge integration",
+      "url": "https://en.wikipedia.org/wiki/Windows_10_version_history#Version_20H2_(October_2020_Update)",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Windows_10_desktop.png"
+        },
+        "name": "Windows 10 October 2020 Update"
+      },
+      "cardDetailedText": "The October 2020 Update brought a theme-aware Start menu, closer integration with the new Chromium-based Microsoft Edge, and improved tablet experience."
+    },
+    {
+      "title": "2021-05-18",
+      "cardTitle": "Windows 10 May 2021 Update (21H1)",
+      "cardSubtitle": "Minor update with performance and security enhancements",
+      "url": "https://en.wikipedia.org/wiki/Windows_10_version_history#Version_21H1_(May_2021_Update)",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Windows_10_desktop.png"
+        },
+        "name": "Windows 10 May 2021 Update"
+      },
+      "cardDetailedText": "A minor feature update focusing on security, remote access, and quality improvements."
+    },
+    {
+      "title": "2021-08-18",
+      "cardTitle": "Windows Server 2022",
+      "cardSubtitle": "Advanced multi-layer security and hybrid capabilities",
+      "url": "https://en.wikipedia.org/wiki/Windows_Server_2022",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/3/38/Windows_Server_2022_screenshot.png"
+        },
+        "name": "Windows Server 2022"
+      },
+      "cardDetailedText": "Windows Server 2022 introduced enhanced multi-layer security, hybrid capabilities with Azure, and flexible application platform features."
+    },
+    {
+      "title": "2021-10-05",
+      "cardTitle": "Windows 11 (Initial Release)",
+      "cardSubtitle": "Redesigned interface and Android app support",
+      "url": "https://en.wikipedia.org/wiki/Windows_11",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/92/Windows_11_Desktop.png"
+        },
+        "name": "Windows 11"
+      },
+      "cardDetailedText": "Windows 11 brought a significant visual overhaul with a centered Start menu, redesigned Taskbar, and the ability to run Android apps natively."
+    },
+    {
+      "title": "2022-09-20",
+      "cardTitle": "Windows 11 22H2 (2022 Update)",
+      "cardSubtitle": "Improvements to Start menu, Taskbar, and snap layouts",
+      "url": "https://en.wikipedia.org/wiki/Windows_11_version_history#Version_22H2_(2022_Update)",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/92/Windows_11_Desktop.png"
+        },
+        "name": "Windows 11 22H2"
+      },
+      "cardDetailedText": "The first major feature update for Windows 11, focusing on refinements to the user interface, accessibility, and security features."
+    },
+    {
+      "title": "2023-10-31",
+      "cardTitle": "Windows 11 23H2 (2023 Update)",
+      "cardSubtitle": "Copilot integration and File Explorer enhancements",
+      "url": "https://en.wikipedia.org/wiki/Windows_11_version_history#Version_23H2_(2023_Update)",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/92/Windows_11_Desktop.png"
+        },
+        "name": "Windows 11 23H2"
+      },
+      "cardDetailedText": "This update introduced Microsoft Copilot (AI assistant), significant improvements to File Explorer, and enhanced backup and restore features."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Title",
+      "cardTitle": "Card Title(Link to URL)",
+      "cardSubtitle": "Card Subtitle",
+      "cardDetailedText": "Card Detailed Text",
+      "url": "URL",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://raw.githubusercontent.com/prabhuignoto/react-chrono/refs/heads/master/readme-assets/social-logo-small.png"
+        },
+        "name": "React Chrono"
+      }
+    }
+  ],
+  "hash": "4d81ad6609ee9746177bac803c4a5f33976d99c6bd6a205189cf623dacb98590"
+}
