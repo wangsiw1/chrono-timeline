@@ -97,7 +97,7 @@ export default function Entry({ setTimelineData }) {
 
   return (
     <div style={{ maxWidth: 400, margin: 'auto', padding: 32, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'flex-start', minHeight: '80vh' }}>
-      <div style={{ textAlign: 'center', marginBottom: 100 }}>
+      <div style={{ textAlign: 'center', marginBottom: 50 }}>
         <h1 style={{ fontSize: '2.2em', marginBottom: 8 }}>Chrono Timeline</h1>
         <div style={{ fontSize: '1em', color: '#888', marginBottom: 12 }}>A simple timeline app built with</div>
         <a href="https://github.com/prabhuignoto/react-chrono" target="_blank" rel="noopener noreferrer">
@@ -124,6 +124,16 @@ export default function Entry({ setTimelineData }) {
           setTimelineData({ items: [] });
           navigate('/edit');
         }}>Create New Timeline</button>
+      </div>
+      <div style={{ marginTop: 40, fontSize: '1em', color: '#b71c1c', background: '#fff8e1', border: '1px solid #ffe082', borderRadius: 8, padding: 16, maxWidth: 500 }}>
+        <b>Be aware of misinformation:</b>
+        <div style={{ marginTop: 8, marginBottom: 0, color: '#b71c1c' }}>
+          As people sharing stories and events, always make sure that
+        </div>
+        <ul style={{ marginTop: 8, marginBottom: 0, paddingLeft: 20 }}>
+          <li>There are trust-worthy sources that backs up the information (Valid URL from official or news sites)</li>
+          <li>Double check with more sources (Searching online, check in person if possible)</li>
+        </ul>
       </div>
     </div>
   );
