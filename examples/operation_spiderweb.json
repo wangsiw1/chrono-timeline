@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "title": "2023-11-01T00:00:00Z",
+      "cardTitle": "Operation Spiderweb - Planning Begins",
+      "cardSubtitle": "Ukraine's Security Service (SBU) initiates planning for a complex, deep-strike drone operation.",
+      "url": "https://www.csis.org/analysis/how-ukraines-spider-web-operation-redefines-asymmetric-warfare",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/1400x600/s3/2025-06/250602_Bondar_Spider_Banner_Crop1.jpg"
+        },
+        "name": "Ukrainian Drone Preparation"
+      },
+      "cardDetailedText": "Preparation for Operation Spiderweb, a large-scale drone attack targeting Russian strategic aviation assets, reportedly began over 18 months prior to its execution. This highly classified operation, overseen by SBU head Vasyl Malyuk and Ukrainian President Volodymyr Zelenskyy, aimed to inflict significant damage on Russia's long-range strike capabilities. The operation involved meticulous planning for covert infiltration of drones and launch systems deep into Russian territory."
+    },
+    {
+      "title": "2024-10-01T00:00:00Z",
+      "cardTitle": "Covert Infiltration and Logistics Setup",
+      "cardSubtitle": "Ukrainian operatives begin smuggling drones and launch systems into Russia.",
+      "url": "https://www.counterfire.org/article/dicing-with-doomsday-ukraines-operation-spiderweb/",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/2025-06-01_DroneAttack_SBU_%28Drones_in_containers%29.jpg"
+        },
+        "name": "SBU drones for Operation Spiderweb"
+      },
+      "cardDetailedText": "Around 150 small strike drones, modular launch systems, and 300 explosive payloads were covertly smuggled into Russia through complex logistical routes. These drones were concealed in specially designed wooden cabins mounted on the back of lorries, driven by unsuspecting Russian drivers. A Ukrainian national who had established a freight business in Chelyabinsk was suspected of playing a key role in this infiltration."
+    },
+    {
+      "title": "2025-06-01T00:00:00Z",
+      "cardTitle": "Operation Spiderweb - Coordinated Drone Strikes",
+      "cardSubtitle": "Multiple Russian airbases simultaneously targeted by Ukrainian drones.",
+      "url": "https://en.wikipedia.org/wiki/Operation_Spiderweb",
+      "media": {
+        "type": "VIDEO",
+        "source": {
+          "url": "https://www.youtube.com/embed/1YuMxd44Y5o"
+        },
+        "name": "How Ukraine's operation 'Spider Web' in Russia unfolded | BBC News"
+      },
+      "cardDetailedText": "On June 1, 2025, Ukraine's Security Service (SBU) launched a coordinated drone attack, codenamed 'Operation Spiderweb', targeting five major Russian airbases: Belaya (Irkutsk Oblast, over 4,000 km from Ukraine), Dyagilevo (Ryazan Oblast), Ivanovo Severny (Ivanovo Oblast), Olenya (Murmansk Oblast, approximately 1,900 km from Ukraine), and Ukrainka (Amur Oblast). The drones, launched from within Russian territory, struck strategic bombers (Tu-95MS, Tu-22M3) and A-50 surveillance planes. This marked the largest drone attack on Russian air bases up to that point, with an unprecedented geographical reach, inflicting damage thousands of kilometers from the Ukrainian border."
+    },
+    {
+      "title": "2025-06-01T00:30:00Z",
+      "cardTitle": "Initial Damage Assessment and Ukrainian Claims",
+      "cardSubtitle": "Ukraine claims significant damage to Russian aircraft.",
+      "url": "https://kyivindependent.com/operation-spiderweb-everything-we-know-about-ukraines-audacious-attack-on-russias-heavy-bombers/",
+      "media": {
+        "type": "IMAGE",
+        "source": {
+          "url": "https://assets.kyivindependent.com/content/images/2025/06/Screenshot-2025-06-02-at-18_58_29.png"
+        },
+        "name": "Screenshot from SBU video of alleged attack"
+      },
+      "cardDetailedText": "Following the attacks, the SBU claimed that 'more than 40' Russian aircraft were hit, including A-50s, Tu-95s, and Tu-22M3s, at the four main airbases. They also stated the operation caused approximately $7 billion in damage and disabled one-third of Russia's cruise missile bombers. Satellite images and drone footage later emerged, partially confirming some of these claims, with at least several aircraft visibly damaged or destroyed."
+    },
+    {
+      "title": "2025-06-03T00:00:00Z",
+      "cardTitle": "International Reaction and Strategic Impact Analysis",
+      "cardSubtitle": "World leaders and analysts assess the implications of the operation.",
+      "url": "https://united24media.com/latest-news/world-leaders-praise-ukraines-operation-spider-web-as-model-of-modern-self-defense-8814",
+      "cardDetailedText": "Operation Spiderweb was widely praised by international leaders as a sophisticated and legitimate act of self-defense, showcasing Ukraine's ingenuity in asymmetric warfare. Analysts highlighted the operation's ability to expose critical gaps in Russia's air defense, even thousands of kilometers from the front lines. The strikes aimed to degrade Russia's long-range strike capabilities, inflict significant economic and military costs, and bolster Ukraine's negotiating position."
+    },
+    {
+      "title": "2025-06-23T00:00:00Z",
+      "cardTitle": "Conclusion of Immediate Operational Impact and Long-term Implications",
+      "cardSubtitle": "Assessment of the operation's short-term and long-term effects.",
+      "url": "https://www.institutmontaigne.org/en/expressions/ukraine-lessons-spider-web-value-counter-intelligence-dominance",
+      "cardDetailedText": "While the exact number of destroyed aircraft remained debated, consensus suggested around 40 aircraft damaged and a dozen destroyed, including Tu-95MS and Tu-22M3 bombers. The operation significantly weakened Russia's offensive capabilities, forcing the Kremlin to relocate and disperse its assets. Beyond the military toll, the symbolic value was immense, demonstrating Ukraine's capability to strike deep into Russia and challenging the narrative of Russian invincibility. The operation highlighted the growing role of low-cost, AI-assisted drones in modern warfare and the importance of counter-intelligence dominance."
+    }
+  ]
+}
