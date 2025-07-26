@@ -100,8 +100,7 @@ export default function Edit({ timelineData, setTimelineData }) {
   };
 
   const exportJson = async () => {
-    const hashValue = await calculateTimelineHash(items);
-    const exportData = { items, hash: hashValue };
+    const exportData = { items };
     const dataStr = 'data:text/json;charset=utf-8,' + encodeURIComponent(JSON.stringify(exportData, null, 2));
     const dlAnchor = document.createElement('a');
     dlAnchor.setAttribute('href', dataStr);

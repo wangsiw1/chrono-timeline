@@ -52,7 +52,8 @@ export default function Timeline({ timelineData }) {
     >
       <style>{`
         .timeline-item-title {
-          white-space: normal !important;
+          white-space: pre-wrap;
+          word-break: break-all;
         }
         .timeline-main-wrapper {
           padding: 0 !important;

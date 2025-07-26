@@ -17,7 +17,7 @@ export default defineConfig({
         scope: '/chrono-timeline/',
         display: 'standalone',
         background_color: '#ffffff',
-        theme_color: '#1976d2',
+        theme_color: '#242424',
         icons: [
           {
             src: '/vite.svg',
