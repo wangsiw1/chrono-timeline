@@ -70,12 +70,14 @@ export default function Timeline({ timelineData }) {
         </div>
       </div>
       <div style={{ marginTop: 24 }}>
-        <button onClick={() => navigate('/edit')}>Edit Timeline</button>
+        {!timelineData?._loadedFromUrl && (
+          <button onClick={() => navigate('/edit')}>Edit Timeline</button>
+        )}
         <button
           style={{ marginLeft: 8 }}
           onClick={e => {
             e.preventDefault();
-            if (timelineData?.items && timelineData.items.length > 0) {
+            if (!timelineData?._loadedFromUrl && timelineData?.items && timelineData.items.length > 0) {
               if (window.confirm('Leaving will discard your current timeline. Continue? (You can save the data in the Edit page)')) {
                 navigate('/');
               }

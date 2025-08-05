@@ -41,6 +41,11 @@ As people sharing stories and events, always make sure that
 2. Double check with more sources(Searching online, check in person if possible)
 
 
+
+## License
+
+This project is licensed under the MIT License. You are free to use, distribute, modify, and do anything with this code. See the LICENSE file for details.
+
 ### Setup
 
 #### Version Requirements

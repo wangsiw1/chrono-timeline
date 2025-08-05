@@ -66,7 +66,7 @@ export default function Entry({ setTimelineData }) {
       if (!isValidTimelineData(data)) {
         throw new Error('Invalid timeline data structure.');
       }
-      setTimelineData(data);
+      setTimelineData({ ...data, _loadedFromUrl: true });
       navigate('/timeline');
     } catch (err) {
       alert('Unable to fetch or parse valid timeline JSON from URL.');
